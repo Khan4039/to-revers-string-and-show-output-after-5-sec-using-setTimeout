@@ -1,0 +1,1 @@
+# to-revers-string-and-show-output-after-5-sec-using-setTimeout
